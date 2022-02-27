@@ -1,0 +1,4 @@
+CSS Framework sendiri merupakan kumpulan kode CSS yang dapat digunakan untuk mengembangkan website. CSS Framework adalah hasil formula codingan website yang telah siap digunakan.
+Tidak, karena css memiliki banyak framework.
+Tailwind,bulma,miligram,semantic UI dsb.
+Bootstrap dapat digunakan dengan 2 cara yang pertama menginstal bootstrap pada laptop dan yang kedua online menggunakan link yang disediakan bootstrap dan di copykan pada file html.
